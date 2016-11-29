@@ -245,17 +245,6 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Library function</string>
-            <key>scope</key>
-            <string>support.function</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#50A0F0</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>Continuation</string>
             <key>scope</key>
             <string>punctuation.separator.continuation</string>
@@ -859,17 +848,6 @@
                 <string />
                 <key>foreground</key>
                 <string>#A57800</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Ruby: Special Method</string>
-            <key>scope</key>
-            <string>keyword.other.special-method.ruby</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#B0E0000</string>
             </dict>
         </dict>
         <dict>
