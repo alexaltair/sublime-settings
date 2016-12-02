@@ -9,19 +9,17 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS",
-		".byebug_history",
+		"CVS"
 	],
 	"font_size": 9,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"margin": -2,
+	"remember_full_screen": true,
 	"show_definitions": false,
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"hot_exit": true,
-	"remember_open_files": false,
-	"remember_full_screen": true,
+	"translate_tabs_to_spaces": true
 }
