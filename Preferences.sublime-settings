@@ -20,6 +20,13 @@
 	],
 	"font_size": 10,
 	"hot_exit": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib",
+		"*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb",
+		".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace",
+		".byebug_history", "*.log"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
