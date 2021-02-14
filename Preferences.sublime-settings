@@ -1,15 +1,35 @@
 {
+	"auto_complete": false,
 	"auto_complete_commit_on_tab": true,
 	"auto_find_in_selection": true,
 	"color_scheme": "Packages/User/Altair.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 9,
-	"margin": -2,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules",
+		"coverage",
+		"env",
+		"run_logs",
+		"logs",
+		"experiment_results",
+		".mypy_cache",
+		".pytest_cache",
+		"__pycache__"
+	],
+	"font_size": 10,
 	"hot_exit": true,
-	"remember_open_files": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": -2,
+	"mini_diff": false,
 	"remember_full_screen": true,
+	"remember_open_files": false,
+	"show_definitions": false,
+	"show_git_status": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
 }
